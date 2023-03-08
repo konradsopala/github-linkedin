@@ -2,20 +2,19 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Auth0 & Okta Developer Community Team Lead <br>
+🤓 Okta Developer Community & Content Manager <br>
 🔧 Management & Leadership <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Community Team Lead at Auth0 & Okta. I'm a passionate user and huge believer in two core principles in my professional. life. I really like thinking about things holistically and connecting the docs to make things work and serve their needs. I use 3P Management (Product, Program, Project) in my professional life and I do lead people instead of managing them. That drives growth and passion.
+Hi! I'm Konrad and I'm currently a Developer Community & Content Manager at Okta. I'm a passionate user and huge believer in two core principles in my professional life. I really like thinking about things holistically and connecting the docs to make things work and serve their needs. I use 3P Management (Product, Program, Project) in my professional life and I do lead people instead of managing them. That drives growth and passion.
 
 Considering my experience and the fact that I'm super passionate about anything management and engineering and combining that with my passion for data I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
 
 # Social 🤜🤛
 
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](www.linkedin.com/in/konradsopala)
-* ✍🏼 Substack [The Sane Manager Project](https://sanemanagerproject.substack.com/)
 * 🐤 Twitter  [@konradsopala](https://twitter.com/konradsopala)
 * 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
 * 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
@@ -23,8 +22,8 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Experience 🧓
 
-* [Okta Developer Community Team Lead](https://www.okta.com/) (January 2022 - Present) <br>
-* [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - Present) <br>
+* [Okta: Developer Community and Content Manager)(https://www.okta.com/) (March 2023 - Present) <br>
+* [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
@@ -58,7 +57,7 @@ All the certificates can be viewed [here](https://github.com/konradsopala/github
   * **Professional Scrum Master**
     * [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
 * **Professional Scrum Product Owner**
-    * [Professional Scrum Product Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification)
+    * [Professional Scrum Product Owner I](https://www.scrum.org/professional-scrum-product-owner-i-certification)
 
 # Hackathons 🙋‍♂️
 
