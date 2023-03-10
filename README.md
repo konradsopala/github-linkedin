@@ -34,10 +34,10 @@ Considering my experience and the fact that I'm super passionate about anything 
 |         Field        | Skills                                                                                      |
 |:--------------------:|---------------------------------------------------------------------------------------------|
 |       Management     | Product Management, Project Management, Program Management, Leadership, Agile Methodologies |
-|      Engineering     | Product Engineering, Research, , Python, Swift, Git                                         |
+|      Engineering     | Product Engineering, Research, Python, Swift, Git                                           |
 |          Data        | Data Analysis, Excel, Python Data Analysis Packages                                         |
 |         Design       | User Research, UX Fundamentals, Sketch                                                      |
-|        DevRel        | DevRel Management, Community Engineering, Developer Evangelism & Advocacy                   |
+|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy& Experience                    |
 
 # Education 📚
 
