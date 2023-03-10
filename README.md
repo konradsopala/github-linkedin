@@ -22,7 +22,7 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Experience 🧓
 
-* [Okta: Developer Community and Content Manager)(https://www.okta.com/) (March 2023 - Present) <br>
+* [Okta: Developer Community and Content Manager](https://www.okta.com/) (March 2023 - Present) <br>
 * [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
