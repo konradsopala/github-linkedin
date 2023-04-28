@@ -2,13 +2,13 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Okta Program Manager <br>
+🤓 Auth0 Program Manager <br>
 🔧 Management & Leadership <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Program Manager at Okta. I'm a passionate user and huge believer in two core principles in my professional life. I really like thinking about things holistically and connecting the docs to make things work and serve their needs. I use 3P Management (Product, Program, Project) in my professional life and I do lead people instead of managing them. That drives growth and passion.
+Hi! I'm Konrad and I'm currently a Program Manager at Auth0 by Okta. I'm a passionate user and huge believer in two core principles in my professional life. I really like thinking about things holistically and connecting the docs to make things work and serve their needs. I use 3P Management (Product, Program, Project) in my professional life and I do lead people instead of managing them. That drives growth and passion.
 
 Considering my experience and the fact that I'm super passionate about anything management and engineering and combining that with my passion for data I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
 
@@ -22,7 +22,7 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Experience 🧓
 
-* [Okta: Program Manager](https://www.okta.com/) (March 2023 - Present) <br>
+* [Auth0 by Okta: Program Manager](https://auth0.com/) (March 2023 - Present) <br>
 * [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
