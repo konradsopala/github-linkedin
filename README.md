@@ -8,7 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Programs & Content Manager at Auth0 by Okta. I'm a passionate user and believer in two core principles in my professional life. I really like thinking about things holistically and connecting the dots to make things work and serve their needs.
+Hi! I'm Konrad and I'm currently a Developer Programs & Content Manager at Auth0 by Okta. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
 
 Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
 
