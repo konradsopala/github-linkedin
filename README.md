@@ -2,13 +2,13 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Auth0 by Okta: Developer Programs & Content Manager <br>
+🤓 Auth0 by Okta: Developer Community Program Manager <br>
 🔧 Developers & Community & Engineering <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Programs & Content Manager at Auth0 by Okta. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
+Hi! I'm Konrad and I'm currently a Developer Community Program Manager at Auth0 by Okta. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
 
 Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
 
@@ -22,7 +22,7 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Experience 🧓
 
-* [Auth0 by Okta: Developer Programs & Content Manager](https://auth0.com/) (March 2023 - Present) <br>
+* [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Present) <br>
 * [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
@@ -34,10 +34,9 @@ Considering my experience and the fact that I'm super passionate about anything 
 |         Field        | Skills                                                                                      |
 |:--------------------:|---------------------------------------------------------------------------------------------|
 |       Management     | Product Management, Project Management, Program Management, Leadership, Agile Methodologies |
-|      Engineering     | Product Engineering, Research, Python, Swift, Git                                           |
-|          Data        | Data Analysis, Excel, Python Data Analysis Packages                                         |
+|      Engineering     | Product Engineering, Research & Data Analysis, Python, Swift, Git                           |
 |         Design       | User Research, UX Fundamentals, Sketch                                                      |
-|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy& Experience, Developer Content |
+|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy & Experience, Developer Content|
 
 # Education 📚
 
@@ -51,7 +50,7 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Courses & Certifications 👨‍🏫
 
-All the certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
+All my certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
 
 * **Management**
   * **Professional Scrum Master**
