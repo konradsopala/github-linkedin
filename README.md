@@ -2,15 +2,15 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Auth0 by Okta: Developer Community Program Manager <br>
-🔧 Developers & Community & Engineering <br>
+🤓 Oxla: Developer Experience Manager <br>
+🔧 Developers Ecosystem Engineering <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Community Program Manager at Auth0 by Okta. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
+Hi! I'm Konrad and I'm currently a Developer Experience Manager at Oxla. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
 
-Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
+Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data and technical programs management, I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
 
 # Social 🤜🤛
 
@@ -22,21 +22,26 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Experience 🧓
 
+* [Oxla: Developer Experience Manager](https://www.oxla.com/) (May 2024 - Present) <br>
 * [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Present) <br>
 * [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
+* [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
+* [GitHub: Campus Expert](https://education.github.com/pack/join) (June 2018 - june 2019) <br>
+* [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
+* [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
+* [AGHacks: Project Manager](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
 
 # Skills 🙅‍♂️
 
-|         Field        | Skills                                                                                      |
-|:--------------------:|---------------------------------------------------------------------------------------------|
-|       Management     | Product Management, Project Management, Program Management, Leadership, Agile Methodologies |
-|      Engineering     | Product Engineering, Research & Data Analysis, Python, Swift, Git                           |
-|         Design       | User Research, UX Fundamentals, Sketch                                                      |
-|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy & Experience, Developer Content|
+|         Field        | Skills                                                                                                                    |
+|:--------------------:|---------------------------------------------------------------------------------------------------------------------------|
+|      Management      | Technical Product Management, Technical Project Management, Technical Program Management, Leadership, Agile Methodologies |
+|     Engineering      | Product Engineering, Research & Data Analysis, Python, Swift, Git                                                         |
+|        Design        | User Research, UX Fundamentals, Sketch                                                                                    |
+|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy & Experience, Developer Content                              |
 
 # Education 📚
 
