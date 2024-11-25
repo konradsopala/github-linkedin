@@ -1,4 +1,4 @@
-![](/Assets/GitHubBanner.png)
+![](/Assets/KonradGitHubBanner.png)
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
