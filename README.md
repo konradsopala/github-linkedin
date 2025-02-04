@@ -3,14 +3,14 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🤓 Oxla: Developer Experience Manager <br>
-🔧 Developers Ecosystem Engineering <br>
+🔧 Technical Project / Programs / Product Management <br>
 </p>
 
 # Bio 👋
 
 Hi! I'm Konrad and I'm currently a Developer Experience Manager at Oxla. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
 
-Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data and technical programs management, I'm always willing to engage in projects bringing added value in those fields! There's a lot of potential we can discover together so I really hope to have a chance to co-operate with you soon!
+Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data and technical project, programs and product management, I'm always willing to engage in projects bringing added value in those fields!
 
 # Social 🤜🤛
 
