@@ -8,9 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Experience Manager at Oxla. I'm a passionate user and believer in thinking about things holistically and connecting the dots to make things work and serve their needs as a whole, having user friendly information architecture in place.
-
-Considering my experience and the fact that I'm super passionate about anything developers, community and engineering and combining that with my passion for data and technical project, programs and product management, I'm always willing to engage in projects bringing added value in those fields!
+Hi! I'm Konrad and I'm currently a Developer Relations Manager at Oxla
 
 # Social 🤜🤛
 
@@ -36,12 +34,13 @@ Considering my experience and the fact that I'm super passionate about anything 
 
 # Skills 🙅‍♂️
 
-|         Field        | Skills                                                                                                                    |
-|:--------------------:|---------------------------------------------------------------------------------------------------------------------------|
-|      Management      | Technical Product Management, Technical Project Management, Technical Program Management, Leadership, Agile Methodologies |
-|     Engineering      | Product Engineering, Research & Data Analysis, Python, Swift, Git                                                         |
-|        Design        | User Research, UX Fundamentals, Sketch                                                                                    |
-|        DevRel        | DevRel Management, Community Engineering, Developer Advocacy & Experience, Developer Content                              |
+|         Field                 | Skills                                                                                                                    |
+|:------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                               |
+|     Software Development      | Product Engineering, Python, Swift, Technical Writing, Git                                                                |
+|        Product                | Product Management, User Interviews, Data Analysis, Research, GTM                                                         |
+|        Design                 | User Research, UX Fundamentals, Sketch                                                                                    |
+|        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content                   |
 
 # Education 📚
 
