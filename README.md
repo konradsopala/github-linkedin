@@ -39,7 +39,6 @@ Hi! I'm Konrad and I'm currently a Developer Relations Manager at Oxla
 |      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                               |
 |     Software Development      | Product Engineering, Python, Swift, Technical Writing, Git                                                                |
 |        Product                | Product Management, Product Marketing, User Interviews, Data Analysis, Research, GTM                                      |
-|        Design                 | User Research, UX Fundamentals, Sketch                                                                                    |
 |        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content                   |
 
 # Education 📚
