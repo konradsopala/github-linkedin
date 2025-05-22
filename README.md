@@ -2,13 +2,13 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Oxla: Developer Experience Manager <br>
-🔧 Technical Project / Programs / Product Management <br>
+🤓 Oxla: Developer Experience & Product <br>
+🔧 Technical Product Management & Developer Marketing <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently a Developer Relations Manager at Oxla
+Hi! I'm Konrad and I'm currently responsible for Developer Relations and Product at Oxla
 
 # Social 🤜🤛
 
@@ -20,17 +20,17 @@ Hi! I'm Konrad and I'm currently a Developer Relations Manager at Oxla
 
 # Experience 🧓
 
-* [Oxla: Developer Experience Manager](https://www.oxla.com/) (May 2024 - Present) <br>
-* [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Present) <br>
+* [Oxla: Developer Relations & Product](https://www.oxla.com/) (May 2024 - Present) <br>
+* [Auth0 by Okta: Developer Community Program Management](https://auth0.com/) (March 2023 - Mar 2024) <br>
 * [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
+* [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
 * [GitHub: Campus Expert](https://education.github.com/pack/join) (June 2018 - june 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
-* [AGHacks: Project Manager](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
+* [AGHacks: Core Team](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
 
 # Skills 🙅‍♂️
 
@@ -55,7 +55,7 @@ Hi! I'm Konrad and I'm currently a Developer Relations Manager at Oxla
 
 All my certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
 
-* **Management**
+* ** Product Management**
   * **Professional Scrum Master**
     * [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
 * **Professional Scrum Product Owner**
