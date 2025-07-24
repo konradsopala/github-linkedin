@@ -2,7 +2,7 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Oxla: Developer Experience & Product <br>
+🤓 Oxla: Developer Relations & Product <br>
 🔧 Technical Product Management & Developer Marketing <br>
 </p>
 
@@ -38,7 +38,7 @@ Hi! I'm Konrad and I'm currently responsible for Developer Relations and Product
 |:------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                               |
 |     Software Development      | Product Engineering, Python, Swift, Technical Writing, Git                                                                |
-|        Product                | Product Management, Product Marketing, User Interviews, Data Analysis, Research, GTM                                      |
+|        Product                | Technical Product Management, Technical Product Marketing, User Interviews, Data Analysis, Research, GTM                                      |
 |        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content                   |
 
 # Education 📚
@@ -55,11 +55,10 @@ Hi! I'm Konrad and I'm currently responsible for Developer Relations and Product
 
 All my certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
 
-* ** Product Management**
-  * **Professional Scrum Master**
-    * [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification)
+* **Professional Scrum Master**
+    * [Professional Scrum Master](https://www.scrum.org/professional-scrum-master-i-certification)
 * **Professional Scrum Product Owner**
-    * [Professional Scrum Product Owner I](https://www.scrum.org/professional-scrum-product-owner-i-certification)
+    * [Professional Scrum Product Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification)
 
 # Hackathons 🙋‍♂️
 
