@@ -1,14 +1,13 @@
-![](/Assets/KonradGitHubBanner.png)
+![](/Assets/ThisIsFine.png)
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Oxla: Developer Relations & Product <br>
-🔧 Technical Product Management & Developer Marketing <br>
+🔧 Technical Product Marketing & Developer Relations <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently responsible for Developer Relations and Product at Oxla
+Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Developer Relations efforts at [Oxla](https://www.oxla.com/) driving company inbound and outbound growth.
 
 # Social 🤜🤛
 
@@ -20,26 +19,27 @@ Hi! I'm Konrad and I'm currently responsible for Developer Relations and Product
 
 # Experience 🧓
 
-* [Oxla: Developer Relations & Product](https://www.oxla.com/) (May 2024 - Present) <br>
-* [Auth0 by Okta: Developer Community Program Management](https://auth0.com/) (March 2023 - Mar 2024) <br>
-* [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - March 2023) <br>
+* [Oxla: Technical Product Marketing & Developer Relations Lead](https://www.oxla.com/) (May 2024 - Present) <br>
+* [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
+* [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
 * [GitHub: Campus Expert](https://education.github.com/pack/join) (June 2018 - june 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
-* [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
+* [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
-* [AGHacks: Core Team](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
+* [AGHacks: Developer Experience & Technical Partnerships Lead](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
 
 # Skills 🙅‍♂️
 
-|         Field                 | Skills                                                                                                                    |
-|:------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                               |
-|     Software Development      | Product Engineering, Python, Swift, Technical Writing, Git                                                                |
-|        Product                | Technical Product Management, Technical Product Marketing, User Interviews, Data Analysis, Research, GTM                                      |
-|        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content                   |
+|         Field                 | Skills                                                                                                                                                  |
+|:------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Technical Product Marketing   | Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance Analysis, Newsletters, Social Media               |
+|        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs                   |
+|        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                         |
+|     Software Development      | Product Engineering, Docs, Python, Swift, Git, Agile                                                                                                    |
+|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                             |
 
 # Education 📚
 
@@ -60,13 +60,6 @@ All my certificates can be viewed [here](https://github.com/konradsopala/github-
 * **Professional Scrum Product Owner**
     * [Professional Scrum Product Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification)
 
-# Hackathons 🙋‍♂️
-
-* [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
-* [AngelHack: Organizer](https://angelhack.com/) (January 2018 - July 2018) <br>
-* [MLH: Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
-* [AGHacks: Co-Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
-
 # Talks 🎤
 
 * [Take care of your Linkedin profile](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
@@ -82,9 +75,5 @@ All my certificates can be viewed [here](https://github.com/konradsopala/github-
 * [Running effective IT society at your university](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
 * [Running big hackathons essentials](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
 * [Meetings essential: How to respect each others' time](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
-
-<p align="center">
-<b> Let's meet virtually or chat online! </b> <br>
-</p>
 
 ![](/Assets/CoverBottom.png)
