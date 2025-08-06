@@ -38,7 +38,7 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 | Technical Product Marketing   | Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance Analysis, Newsletters, Social Media               |
 |        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs                   |
 |        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                         |
-|     Software Development      | Product Engineering, Docs, Python, Swift, Git, Agile                                                                                                    |
+|     Software Development      | Python, Swift, Git, PostgreSQL, Agile, Docs                                                                                                             |
 |      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                             |
 
 # Education 📚
