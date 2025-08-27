@@ -15,7 +15,7 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 * 🐤 Twitter  [@konradsopala](https://twitter.com/konradsopala)
 * 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
 * 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
-* 💪🏼 Gallup [Strengths](https://github.com/konradsopala/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
+* 💪🏼 Gallup [Strengths](/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Experience 🧓
 
@@ -53,27 +53,38 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 # Courses & Certifications 👨‍🏫
 
-All my certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
+All my certificates from the courses I've done, can be viewed [here](/Certificates) and below:
 
-* **Professional Scrum Master**
-    * [Professional Scrum Master](https://www.scrum.org/professional-scrum-master-i-certification)
-* **Professional Scrum Product Owner**
-    * [Professional Scrum Product Owner](https://www.scrum.org/professional-scrum-product-owner-i-certification)
+* [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
+* [Professional Scrum Product Owner](Certificates/Scrum.org/ProfessionalProductownerKonradSopala.pdf)
+* [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
+* [Advanced Product Management: Vision, Strategy & Metrics](/Certificates/Udemy/VisionStrategyMetricsForProductManagers.pdf)
+* [Product Marketing for Tech Companies](/Certificates/Udemy/ProductMarketingManagement.pdf)
+* [Program Management Course - Program Manager Essentials](/Certificates/Udemy/ProgramManagementCourse.pdf)
+* [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
+* [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
+* [Mastering Agile Scrum Project Management](/Certificates/Udemy/AgileScrumProjectManagementCertificate.pdf)
+* [The Complete Python & PostgreSQL Developer Course](/Certificates/Udemy/CompletePythonPostgreSQLCertificate.pdf)
+* [iOS & Swift - The Complete iOS App Development Bootcamp](/Certificates/Udemy/CompleteiOSBootcamp.pdf)
+* [Git Started with GitHub Course](/Certificates/Udemy/GitStartedWithGitHubCertificate.pdf)
+* [Mobile App Design in Sketch: UX and UI Design From Scratch](/Certificates/Udemy/SketchCertificate.pdf)
+* [The Complete iOS 10 & Swift 3 Developer Course](/Certificates/Udemy/iOSDeveloperCertificate.pdf)
+* [User Experience Design Fundamentals](/Certificates/Udemy/UserExperienceFundamentalsCertificate.pdf)
 
 # Talks 🎤
 
-* [Take care of your Linkedin profile](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
-* [First Time Manager: Gold Tips](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FirstTimeManager.pdf) 🇺🇸<br>
-* [Taking care of you organisation GitHub space](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/CompanyGitHubSpace.pdf) 🇺🇸<br>
-* [Pimp Your GitHub Profile](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/PimpYourGitHubProfile.pdf) 🇺🇸<br>
-* [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
-* [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
-* [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
-* [Random Thoughts For Developer Product Managers](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
-* [Developer Community Dilemma](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
-* [Engaging with developer communities](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
-* [Running effective IT society at your university](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
-* [Running big hackathons essentials](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
-* [Meetings essential: How to respect each others' time](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
+* [Take care of your Linkedin profile](/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
+* [First Time Manager: Gold Tips](/Presentations/FirstTimeManager.pdf) 🇺🇸<br>
+* [Taking care of you organisation GitHub space](/Presentations/CompanyGitHubSpace.pdf) 🇺🇸<br>
+* [Pimp Your GitHub Profile](/Presentations/PimpYourGitHubProfile.pdf) 🇺🇸<br>
+* [Observable and Actionable Analytics](/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
+* [FAQathons: your new tool for community forum enhancement](/Presentations/FAQathons.pdf) 🇺🇸<br>
+* [Running 500 people hackathon - AGHacks case study](/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
+* [Random Thoughts For Developer Product Managers](/Presentations/RandomThoughtsForDeveloperProductManagers.pdf) 🇺🇸<br>
+* [Developer Community Dilemma](/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
+* [Engaging with developer communities](/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
+* [Running effective IT society at your university](/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
+* [Running big hackathons essentials](/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
+* [Meetings essential: How to respect each others' time](/Presentations/MeetingsEssentials.pdf) 🇺🇸<br>
 
 ![](/Assets/CoverBottom.png)
