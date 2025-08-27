@@ -11,8 +11,8 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 # Social 🤜🤛
 
-* 👨🏽‍🎓 Linkedin  [Konrad Sopala](www.linkedin.com/in/konradsopala)
-* 🐤 Twitter  [@konradsopala](https://twitter.com/konradsopala)
+* 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
+* 🐤 Twitter  [@konradsopala](https://x.com/yoimkonrad)
 * 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
 * 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
 * 💪🏼 Gallup [Strengths](/GallupInstitute/CliftonStrengthsFinder.md)
@@ -25,7 +25,7 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
-* [GitHub: Campus Expert](https://education.github.com/pack/join) (June 2018 - june 2019) <br>
+* [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - june 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
