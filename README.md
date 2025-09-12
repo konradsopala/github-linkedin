@@ -55,6 +55,7 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 All my certificates from the courses I've done, can be viewed [here](/Certificates) and below:
 
+* [Developer Marketing: Core](/Certificates/ProductMarketingAlliance/DeveloperMarketingCore.pdf)
 * [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
 * [Professional Scrum Product Owner](Certificates/Scrum.org/ProfessionalProductownerKonradSopala.pdf)
 * [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
