@@ -12,7 +12,7 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 # Social 🤜🤛
 
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
-* 🐤 Twitter  [@konradsopala](https://x.com/yoimkonrad)
+* 🐤 Twitter  [@yoimkonrad](https://x.com/yoimkonrad)
 * 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
 * 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
 * 💪🏼 Gallup [Strengths](/GallupInstitute/CliftonStrengthsFinder.md)
