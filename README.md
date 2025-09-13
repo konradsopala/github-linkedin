@@ -2,12 +2,12 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🔧 Technical Product Marketing & Developer Relations <br>
+🔧 Developer Marketing & DevRel <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Developer Relations efforts at [Oxla](https://www.oxla.com/) driving company inbound and outbound growth.
+Hi! I'm Konrad and I'm currently leading Developer Marketing & DevRel efforts at [Oxla](https://www.oxla.com/) driving company inbound and outbound growth.
 
 # Social 🤜🤛
 
@@ -19,12 +19,12 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 # Experience 🧓
 
-* [Oxla: Technical Product Marketing & Developer Relations Lead](https://www.oxla.com/) (May 2024 - Present) <br>
+* [Oxla: Developer Marketing & DevRel Lead](https://www.oxla.com/) (May 2024 - Present) <br>
 * [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
 * [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [Devrel Space: Developer Experience Research Engineer](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
+* [Devrel Space: Founder](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
 * [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - june 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
@@ -33,13 +33,13 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 # Skills 🙅‍♂️
 
-|         Field                 | Skills                                                                                                                                                  |
-|:------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Technical Product Marketing   | Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media |
-|        DevRel                 | Developer Marketing, Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs                   |
-|        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                         |
-|     Software Development      | Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                       |
-|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                             |
+|         Field                 | Skills                                                                                                                                                                               |
+|:------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Developer Marketing         | Technical Product Marketing, Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media |
+|        DevRel                 | Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs, Open Source Programs                                               |
+|        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                                                      |
+|     Software Development      | Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                                                    |
+|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                                                          |
 
 # Education 📚
 
@@ -53,26 +53,32 @@ Hi! I'm Konrad and I'm currently leading Technical Product Marketing and Develop
 
 # Courses & Certifications 👨‍🏫
 
-All my certificates from the courses I've done, can be viewed [here](/Certificates) and below:
+I'm a constant learner, in this section you can find all the [certificates](/Certificates) I've obtained throughout the years:
 
-* [Developer Marketing: Core](/Certificates/ProductMarketingAlliance/DeveloperMarketingCore.pdf)
-* [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
-* [Professional Scrum Product Owner](Certificates/Scrum.org/ProfessionalProductownerKonradSopala.pdf)
-* [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
-* [Advanced Product Management: Vision, Strategy & Metrics](/Certificates/Udemy/VisionStrategyMetricsForProductManagers.pdf)
-* [Product Marketing for Tech Companies](/Certificates/Udemy/ProductMarketingManagement.pdf)
-* [Program Management Course - Program Manager Essentials](/Certificates/Udemy/ProgramManagementCourse.pdf)
-* [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
-* [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
-* [Mastering Agile Scrum Project Management](/Certificates/Udemy/AgileScrumProjectManagementCertificate.pdf)
-* [The Complete Python & PostgreSQL Developer Course](/Certificates/Udemy/CompletePythonPostgreSQLCertificate.pdf)
-* [iOS & Swift - The Complete iOS App Development Bootcamp](/Certificates/Udemy/CompleteiOSBootcamp.pdf)
-* [Git Started with GitHub Course](/Certificates/Udemy/GitStartedWithGitHubCertificate.pdf)
-* [Mobile App Design in Sketch: UX and UI Design From Scratch](/Certificates/Udemy/SketchCertificate.pdf)
-* [The Complete iOS 10 & Swift 3 Developer Course](/Certificates/Udemy/iOSDeveloperCertificate.pdf)
-* [User Experience Design Fundamentals](/Certificates/Udemy/UserExperienceFundamentalsCertificate.pdf)
+* **Developer Marketing & DevRel**
+   * [Developer Marketing: Core](/Certificates/ProductMarketingAlliance/DeveloperMarketingCore.pdf)
+   * [Product Marketing for Tech Companies](/Certificates/Udemy/ProductMarketingManagement.pdf)
+   * [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
+   * [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
+* **Projects & Programs Management**
+   * [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
+   * [Program Management Course - Program Manager Essentials](/Certificates/Udemy/ProgramManagementCourse.pdf)
+   * [Mastering Agile Scrum Project Management](/Certificates/Udemy/AgileScrumProjectManagementCertificate.pdf)
+* **Product**
+   * [Professional Scrum Product Owner](Certificates/Scrum.org/ProfessionalProductownerKonradSopala.pdf)
+   * [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
+   * [Advanced Product Management: Vision, Strategy & Metrics](/Certificates/Udemy/VisionStrategyMetricsForProductManagers.pdf)
+* **Software Engineering**
+   * [The Complete Python & PostgreSQL Developer Course](/Certificates/Udemy/CompletePythonPostgreSQLCertificate.pdf)
+   * [iOS & Swift - The Complete iOS App Development Bootcamp](/Certificates/Udemy/CompleteiOSBootcamp.pdf)
+   * [Git Started with GitHub Course](/Certificates/Udemy/GitStartedWithGitHubCertificate.pdf)
+   * [Mobile App Design in Sketch: UX and UI Design From Scratch](/Certificates/Udemy/SketchCertificate.pdf)
+   * [The Complete iOS 10 & Swift 3 Developer Course](/Certificates/Udemy/iOSDeveloperCertificate.pdf)
+   * [User Experience Design Fundamentals](/Certificates/Udemy/UserExperienceFundamentalsCertificate.pdf)
 
 # Talks 🎤
+
+Here you can check out all the talks I've given during my career
 
 * [Take care of your Linkedin profile](/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
 * [First Time Manager: Gold Tips](/Presentations/FirstTimeManager.pdf) 🇺🇸<br>
