@@ -19,7 +19,7 @@ Hi! I'm Konrad and I'm currently leading Developer Marketing & DevRel efforts at
 
 # Experience 🧓
 
-* [Oxla: Developer Marketing & DevRel Lead](https://www.oxla.com/) (May 2024 - Present) <br>
+* [Oxla: Developer Marketing & DevRel Lead](https://www.oxla.com/) (May 2024 - September 2025) <br>
 * [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
 * [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
