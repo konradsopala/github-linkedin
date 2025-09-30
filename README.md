@@ -2,12 +2,12 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🔧 Developer Marketing & DevRel <br>
+🔧 Developer Community & Developer Marketing <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm currently leading Developer Marketing & DevRel efforts at [Oxla](https://www.oxla.com/) driving company inbound and outbound growth.
+Hi! I'm Konrad and I'm a developer community, marketing and GTM guy.
 
 # Social 🤜🤛
 
@@ -33,13 +33,13 @@ Hi! I'm Konrad and I'm currently leading Developer Marketing & DevRel efforts at
 
 # Skills 🙅‍♂️
 
-|         Field                 | Skills                                                                                                                                                                               |
-|:------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   Developer Marketing         | Technical Product Marketing, Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media |
-|        DevRel                 | Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs, Open Source Programs                                               |
-|        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                                                      |
-|     Software Development      | Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                                                    |
-|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                                                          |
+|         Field                 | Skills                                                                                                                                                                                                 |
+|:------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Developer Marketing         | Technical Product Marketing, Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media, Product Launches |
+|        DevRel                 | Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs, Open Source Programs                                                                 |
+|        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                                                                        |
+|     Software Development      | Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                                                                      |
+|      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                                                                            |
 
 # Education 📚
 
@@ -78,7 +78,7 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
 
 # Talks 🎤
 
-Here you can check out all the talks I've given during my career
+Here you can check out all the talks I've given during my career:
 
 * [Take care of your Linkedin profile](/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
 * [First Time Manager: Gold Tips](/Presentations/FirstTimeManager.pdf) 🇺🇸<br>
