@@ -61,6 +61,7 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
    * [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
    * [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
 * **Projects & Programs Management**
+   * [PMP: Project Management Professional](/Certificates/PMI/PMPCertification.pdf)
    * [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
    * [Program Management Course - Program Manager Essentials](/Certificates/Udemy/ProgramManagementCourse.pdf)
    * [Mastering Agile Scrum Project Management](/Certificates/Udemy/AgileScrumProjectManagementCertificate.pdf)
