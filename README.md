@@ -57,6 +57,7 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
 
 * **Developer Marketing & DevRel**
    * [Developer Marketing: Core](/Certificates/ProductMarketingAlliance/DeveloperMarketingCore.pdf)
+   * [Product Marketing: Core](/Certificates/ProductMarketingAlliance/ProductMarketingCore.pdf)
    * [Product Marketing for Tech Companies](/Certificates/Udemy/ProductMarketingManagement.pdf)
    * [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
    * [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
