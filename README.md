@@ -7,10 +7,11 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer community and marketing guy.
+Hi! I'm Konrad and I'm a developer community and marketing guy. Currently I do technical content marketing for my [Developer Led](https://developerled.substack.com/) newsletter.
 
 # Social 🤜🤛
 
+* ✍🏽 Substack [Developer Led](https://developerled.substack.com/)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
 * 🐤 Twitter  [@yoimkonrad](https://x.com/yoimkonrad)
 * 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
@@ -19,12 +20,12 @@ Hi! I'm Konrad and I'm a developer community and marketing guy.
 
 # Experience 🧓
 
+* [Developer Led: Technical Content Marketer](https://developerled.substack.com/) (August 2018 - July 2020) <br>
 * [Oxla: Developer Marketing Lead](https://www.oxla.com/) (May 2024 - September 2025) <br>
 * [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
 * [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [Devrel Space: Founder](https://twitter.com/devrelspace) (August 2018 - July 2020) <br>
 * [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - june 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
