@@ -2,25 +2,25 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🔧 Developer Community & Developer Marketing <br>
+🔧 Developer Marketing & Community Guy <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer community and marketing guy. Currently I do technical content marketing for my [Developer Led](https://developerled.substack.com/) newsletter.
+Hi! I'm Konrad and I'm developer marketing and community guy. Currently I do developer marketing for my [Developer Led](https://developerled.substack.com/) newsletter.
 
 # Social 🤜🤛
 
 * ✍🏽 Substack [Developer Led](https://developerled.substack.com/)
-* 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
-* 🐤 Twitter  [@yoimkonrad](https://x.com/yoimkonrad)
-* 📧 Email  [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
-* 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
+* 👨🏽‍🎓 Linkedin [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
+* 🐤 Twitter [@yoimkonrad](https://x.com/yoimkonrad)
+* 📧 Email [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
+* 🐙 GitHub [konradsopala](https://github.com/konradsopala)
 * 💪🏼 Gallup [Strengths](/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Experience 🧓
 
-* [Developer Led: Technical Content Marketer](https://developerled.substack.com/) (August 2018 - July 2020) <br>
+* [Developer Led: Developer Marketer](https://developerled.substack.com/) (October 2025 - now) <br>
 * [Oxla: Developer Marketing Lead](https://www.oxla.com/) (May 2024 - September 2025) <br>
 * [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
 * [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
@@ -30,7 +30,7 @@ Hi! I'm Konrad and I'm a developer community and marketing guy. Currently I do t
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
-* [AGHacks: Developer Experience & Technical Partnerships Lead](https://www.facebook.com/AGHacks/?locale=pl_PL) (November 2014 - December 2015) <br>
+* [AGHacks: Co-Founder](https://www.youtube.com/watch?v=W2v1odACVWQ&t=20s) (November 2014 - December 2015) <br>
 
 # Skills 🙅‍♂️
 
@@ -62,6 +62,13 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
    * [Product Marketing for Tech Companies](/Certificates/Udemy/ProductMarketingManagement.pdf)
    * [AI SEO Course: From Zero to Page-One Results](/Certificates/Udemy/AISEOCourse.pdf)
    * [SEO Training Masterclass: Beginner to Advanced SEO](/Certificates/Udemy/SEOTrainingMasterclass.pdf)
+* **Software Engineering**
+   * [The Complete Python & PostgreSQL Developer Course](/Certificates/Udemy/CompletePythonPostgreSQLCertificate.pdf)
+   * [iOS & Swift - The Complete iOS App Development Bootcamp](/Certificates/Udemy/CompleteiOSBootcamp.pdf)
+   * [Git Started with GitHub Course](/Certificates/Udemy/GitStartedWithGitHubCertificate.pdf)
+   * [Mobile App Design in Sketch: UX and UI Design From Scratch](/Certificates/Udemy/SketchCertificate.pdf)
+   * [The Complete iOS 10 & Swift 3 Developer Course](/Certificates/Udemy/iOSDeveloperCertificate.pdf)
+   * [User Experience Design Fundamentals](/Certificates/Udemy/UserExperienceFundamentalsCertificate.pdf)
 * **Projects & Programs Management**
    * [PMP: Project Management Professional](/Certificates/PMI/PMPCertification.pdf)
    * [Professional Scrum Master](/Certificates/Scrum.org/ProfessionalScrumMasterKonradSopala.pdf)
@@ -71,13 +78,6 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
    * [Professional Scrum Product Owner](Certificates/Scrum.org/ProfessionalProductownerKonradSopala.pdf)
    * [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
    * [Advanced Product Management: Vision, Strategy & Metrics](/Certificates/Udemy/VisionStrategyMetricsForProductManagers.pdf)
-* **Software Engineering**
-   * [The Complete Python & PostgreSQL Developer Course](/Certificates/Udemy/CompletePythonPostgreSQLCertificate.pdf)
-   * [iOS & Swift - The Complete iOS App Development Bootcamp](/Certificates/Udemy/CompleteiOSBootcamp.pdf)
-   * [Git Started with GitHub Course](/Certificates/Udemy/GitStartedWithGitHubCertificate.pdf)
-   * [Mobile App Design in Sketch: UX and UI Design From Scratch](/Certificates/Udemy/SketchCertificate.pdf)
-   * [The Complete iOS 10 & Swift 3 Developer Course](/Certificates/Udemy/iOSDeveloperCertificate.pdf)
-   * [User Experience Design Fundamentals](/Certificates/Udemy/UserExperienceFundamentalsCertificate.pdf)
 
 # Talks 🎤
 
