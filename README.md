@@ -1,34 +1,31 @@
 ![](/Assets/ThisIsFine.png)
 
 <p align="center">
-<b> Konrad Sopala </b> <br>
-🔧 Developer Marketing & Community Guy <br>
+<b> 👋🏼 Konrad Sopala </b> <br>
+🔧 Developer Marketing Guy <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm developer marketing and community guy. Currently I do developer marketing for my [Developer Led](https://developerled.substack.com/) newsletter.
+Hi! I'm Konrad and I'm developer marketing guy. Currently I do developer marketing consultancy and write for my [Developer Led](https://developerled.substack.com/) newsletter.
 
 # Social 🤜🤛
 
 * ✍🏽 Substack [Developer Led](https://developerled.substack.com/)
 * 👨🏽‍🎓 Linkedin [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
-* 🐤 Twitter [@yoimkonrad](https://x.com/yoimkonrad)
+* 🐤 X [@yoimkonrad](https://x.com/yoimkonrad)
 * 📧 Email [konrad.sopala@gmail.com](konrad.sopala@gmail.com)
 * 🐙 GitHub [konradsopala](https://github.com/konradsopala)
 * 💪🏼 Gallup [Strengths](/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Experience 🧓
 
-* [Developer Led: Developer Marketer](https://developerled.substack.com/) (October 2025 - now) <br>
-* [Oxla: Developer Marketing Lead](https://www.oxla.com/) (May 2024 - September 2025) <br>
-* [Auth0 by Okta: Developer Community Program Manager](https://auth0.com/) (March 2023 - Mar 2024) <br>
-* [Auth0: Developer Community Lead](https://auth0.com/) (April 2021 - March 2023) <br>
-* [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
-* [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - june 2019) <br>
+* [Developer Led: Developer Marketing Consultant](https://developerled.substack.com/) (October 2025 - now) <br>
+* [Oxla (acq. by RedPanda): Developer Marketing Lead](https://www.redpanda.com/) (May 2024 - September 2025) <br>
+* [Auth0 (acq. by Okta): Developer Community Marketing](https://auth0.com/) (October 2018 - March 2024) <br>
+* [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - June 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
-* [Estimote: Technical Product Marketer & iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
+* [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [Major League Hacking: Developer Community Manager](https://mlh.io/) (November 2017 - November 2017) <br>
 * [AGHacks: Co-Founder](https://www.youtube.com/watch?v=W2v1odACVWQ&t=20s) (November 2014 - December 2015) <br>
 
