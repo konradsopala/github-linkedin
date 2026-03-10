@@ -1,4 +1,4 @@
-![](/Assets/ThisIsFine.png)
+![](/Assets/This.png)
 
 <p align="center">
 <b> 👋🏼 Konrad Sopala </b> <br>
