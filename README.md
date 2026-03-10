@@ -2,12 +2,12 @@
 
 <p align="center">
 <b> 👋🏼 Konrad Sopala </b> <br>
-🔧 Developer & Technical Product Marketing Guy <br>
+🔧 Developer Marketing & Technical Product Marketing Guy <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm developer & technical product marketing guy. Currently I do developer marketing consultancy and write for my [Developer Led](https://developerled.substack.com/) newsletter.
+Hi! I'm Konrad and I'm developer marketing & technical product marketing guy. Currently I do devtools consultancy and write for my [Developer Led](https://developerled.substack.com/) newsletter.
 
 # Social 🤜🤛
 
@@ -20,7 +20,7 @@ Hi! I'm Konrad and I'm developer & technical product marketing guy. Currently I 
 
 # Experience 🧓
 
-* [Developer Led: Developer Marketing Consultant](https://developerled.substack.com/) (October 2025 - now) <br>
+* [Developer Led: Developer Marketing & Technical Product Marketing Consultant](https://developerled.substack.com/) (October 2025 - now) <br>
 * [Oxla (acq. by RedPanda): Developer Marketing Lead](https://www.redpanda.com/) (May 2024 - September 2025) <br>
 * [Auth0 (acq. by Okta): Developer Community Marketing](https://auth0.com/) (October 2018 - March 2024) <br>
 * [GitHub (acq. by Microsoft): Campus Expert](https://githubcampus.expert/) (June 2018 - June 2019) <br>
