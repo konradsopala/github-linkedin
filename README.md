@@ -15,7 +15,7 @@ Hi! I'm Konrad and I'm developer marketing & technical product marketing guy.
 
 # Experience 🧓
 
-* [CodeRabbit: Principal Dev Product Marketing Manager](https://www.coderabbit.ai/) (February 2026 - now) <br>
+* [CodeRabbit: Founding Principal Dev PMM](https://www.coderabbit.ai/) (February 2026 - now) <br>
 * [Developer Led: Developer Marketing & Technical Product Marketing Consultant](https://developerled.substack.com/) (October 2025 - now) <br>
 * [Oxla (acq. by RedPanda): Developer Marketing Lead](https://www.redpanda.com/) (May 2024 - September 2025) <br>
 * [Auth0 (acq. by Okta): Developer Community Marketing](https://auth0.com/) (October 2018 - March 2024) <br>
