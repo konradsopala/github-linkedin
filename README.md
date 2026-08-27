@@ -2,7 +2,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm developer marketing & technical product marketing guy.
+Yo! I'm Konrad and I'm a developer marketer.
 
 # Social 🤜🤛
 
@@ -15,10 +15,9 @@ Hi! I'm Konrad and I'm developer marketing & technical product marketing guy.
 
 # Experience 🧓
 
-* [CodeRabbit: Founding Principal Dev PMM](https://www.coderabbit.ai/) (February 2026 - now) <br>
-* [Developer Led: Developer Marketing & Technical Product Marketing Consultant](https://developerled.substack.com/) (October 2025 - now) <br>
+* [CodeRabbit: Principal Developer Marketer](https://www.coderabbit.ai/) (February 2026 - now) <br>
 * [Oxla (acq. by RedPanda): Developer Marketing Lead](https://www.redpanda.com/) (May 2024 - September 2025) <br>
-* [Auth0 (acq. by Okta): Developer Community Marketing](https://auth0.com/) (October 2018 - March 2024) <br>
+* [Auth0 (acq. by Okta): Developer Marketer](https://auth0.com/) (October 2018 - March 2024) <br>
 * [GitHub (acq. by Microsoft): Campus Expert](https://githubcampus.expert/) (June 2018 - June 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
@@ -29,10 +28,10 @@ Hi! I'm Konrad and I'm developer marketing & technical product marketing guy.
 
 |         Field                 | Skills                                                                                                                                                                                                 |
 |:------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   Developer Marketing         | Technical Product Marketing, Positioning & Messaging, Top-Of-Funnel GTM, Technical & Non-Technical Content, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media, Product Launches |
+|   Developer Marketing         | Technical Product Marketing, Positioning & Messaging, Competitive-Intelligence, Top-Of-Funnel GTM, Technical Content Marketing, SEO & GEO, Performance & Attribution Analysis, Newsletters, Social Media, Product Launches |
 |        DevRel                 | Community Engineering, Developer Advocacy, Developer Experience, Developer Content, Developer Community Programs, Open Source Programs                                                                 |
 |        Product                | Technical Product Management,  User Interviews, Data Analysis, Research, Product Feedback Loops                                                                                                        |
-|     Software Development      | Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                                                                      |
+|     Software Development      | Claude, Codex, ADLC, Python, Swift, Git, PostgreSQL, Technical Writing                                                                                                                                                      |
 |      Management               | Technical Project Management, Technical Program Management, Leadership, Agile Methodologies                                                                                                            |
 
 # Education 📚
@@ -47,7 +46,7 @@ Hi! I'm Konrad and I'm developer marketing & technical product marketing guy.
 
 # Courses & Certifications 👨‍🏫
 
-I'm a constant learner, in this section you can find all the [certificates](/Certificates) I've obtained throughout the years:
+Here you can check out all [certificates](/Certificates) I've obtained throughout the years:
 
 * **Developer Marketing & DevRel**
    * [Developer Marketing: Core](/Certificates/ProductMarketingAlliance/DeveloperMarketingCore.pdf)
@@ -72,9 +71,57 @@ I'm a constant learner, in this section you can find all the [certificates](/Cer
    * [Becoming a Product Manager](/Certificates/Udemy/ProductManagerCourse.pdf)
    * [Advanced Product Management: Vision, Strategy & Metrics](/Certificates/Udemy/VisionStrategyMetricsForProductManagers.pdf)
 
+# Writing ✍🏽
+
+The thing I wrote for work (👨‍💼) or personal purposes (🧐):
+* [What makes asynchronous work really work](https://x.com/yoimkonrad/status/2089773493734805964) 🧐<br>
+* [Developer Community SDK: How we built and scaled Auth0 developer ecosystem](https://developerled.substack.com/p/community-sdk-how-auth0-build-and) 🧐<br>
+* [Community SQL: Query your community like it's PostgreSQL](https://developerled.substack.com/p/community-sql-query-your-community) 🧐<br>
+* [I went everywhere on PostHog's new website so you don't have to...but you should](https://developerled.substack.com/p/i-went-everywhere-on-posthogs-new) 🧐<br>
+* [Sell what you build](https://developerled.substack.com/p/sell-what-you-build) 🧐<br>
+* [Developer Led GTM](https://developerled.substack.com/p/developer-led-gtm) 🧐<br>
+* [Developer Marketing Engineer](https://developerled.substack.com/p/developer-marketing-engineer) 🧐<br>
+* [The Growthification of DevRel](https://developerled.substack.com/p/the-growthification-of-devrel) 🧐<br>
+* [How to build your customers](https://developerled.substack.com/p/how-to-build-your-customers) 🧐<br>
+* [Product Launches Should Be Dead Boring](https://developerled.substack.com/p/product-launches-should-be-dead-boring) 🧐<br>
+* [You Don't Need to Implement That. Autofix will](https://www.coderabbit.ai/blog/you-don-t-need-to-implement-that-autofix-will) 👨‍💼<br>
+* [Now the agent moves first](https://web.archive.org/web/20260609052556/https://www.coderabbit.ai/blog/now-the-agent-moves-first) 👨‍💼<br>
+* [Be honest about that "I'll clean it up later" comment](https://www.coderabbit.ai/blog/introducing-simplify-code) 👨‍💼<br>
+* [What's new in CodeRabbit Review: Code Peek, Chat Agent and more](https://www.coderabbit.ai/blog/code-search-peek-in-coderabbit-review) 👨‍💼<br>
+* [The diff says 1,400 lines. The change is six](https://www.coderabbit.ai/blog/introducing-semantic-diff) 👨‍💼<br>
+
+# Videos 📹
+
+Here are some videos I did:
+
+* [CodeRabbit Security Observability](https://x.com/coderabbitai/status/2090831577815376083)
+* [CodeRabbit Security - Blast Radius](https://x.com/coderabbitai/status/2090589758888296767)
+* [CodeRabbit Change Stack - Security](https://x.com/coderabbitai/status/2090461401576005643)
+* [CodeRabbit Security AI Deep Scan](https://x.com/coderabbitai/status/2089457363283828797)
+* [Custom Claude Review Skill vs CodeRabbit](https://x.com/coderabbitai/status/2084670757146349917)
+* [End to end CodeRabbit Change Stack workflow](https://x.com/coderabbitai/status/2082858898109993281)
+* [Finishing Touches in CodeRabbit Change Stack](https://x.com/coderabbitai/status/2082553063546753403)
+* [CodeRabbit ESLint](https://x.com/coderabbitai/status/2082134081631093055)
+* [CodeRabbit Change Stack Overview Page](https://x.com/coderabbitai/status/2079957390678479027)
+* [CodeRabbit Post Merge Actions](https://x.com/coderabbitai/status/2079279702674747847)
+* [CodeRabbit Review Profiles](https://x.com/coderabbitai/status/2074887957874700506)
+* [Fixing failing CI from CodeRabbit Change Stack](https://x.com/coderabbitai/status/2074522388621037594)
+* [CodeRabbit Change Stack - Timeline View](https://x.com/coderabbitai/status/2072712225647989075)
+* [CodeRabbit Agent for Discord](https://x.com/coderabbitai/status/2070567235740139727)
+* [CodeRabbit Change Stack - Overview](https://x.com/coderabbitai/status/2067996135084765266)
+* [CodeRabbit Automatic Repository Linking](https://x.com/coderabbitai/status/2065101066006610198)
+* [CodeRabbit Agent for Slack - Charts](https://x.com/coderabbitai/status/2061833027106615738)
+* [New in CodeRabbit Review](https://x.com/coderabbitai/status/2059628068629782830)
+* [CodeRabbit Change Stack - Semantic Diff](https://x.com/coderabbitai/status/2057483632839942307)
+* [CodeRabbit Agent for Slack - DataDog](https://x.com/coderabbitai/status/2057120994494718151)
+* [CodeRabbit Agent for Slack](https://x.com/coderabbitai/status/2055312592953049432)
+* [CodeRabbit Simplify](https://x.com/coderabbitai/status/2049156710825361777)
+* [CodeRabbit Pre-Merge Checks](https://x.com/coderabbitai/status/2032121519888089231)
+* [Coderabbit Prompts for AI Agents](https://x.com/coderabbitai/status/2023800433089933516)
+
 # Talks 🎤
 
-Here you can check out all the talks I've given during my career:
+Here you can check out all the talks I've given:
 
 * [Take care of your Linkedin profile](/Presentations/TakeCareOfYourLinkedinLProfile.pdf) 🇺🇸<br>
 * [First Time Manager: Gold Tips](/Presentations/FirstTimeManager.pdf) 🇺🇸<br>
