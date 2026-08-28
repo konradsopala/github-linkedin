@@ -6,6 +6,7 @@ Yo! I'm Konrad and I'm a developer marketer.
 
 # Social 🤜🤛
 
+* 👋🏼 Personal Website [dontcheckthis.dev](https://dontcheckthis.dev/)
 * ✍🏽 Substack [Developer Led](https://developerled.substack.com/)
 * 👨🏽‍🎓 Linkedin [Konrad Sopala](https://www.linkedin.com/in/konradsopala/)
 * 🐤 X [@yoimkonrad](https://x.com/yoimkonrad)
