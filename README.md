@@ -76,20 +76,32 @@ Here you can check out all [certificates](/Certificates) I've obtained throughou
 
 The thing I wrote for work (👨‍💼) or personal purposes (🧐):
 * [What makes asynchronous work really work](https://x.com/yoimkonrad/status/2089773493734805964) 🧐<br>
-* [Developer Community SDK: How we built and scaled Auth0 developer ecosystem](https://developerled.substack.com/p/community-sdk-how-auth0-build-and) 🧐<br>
-* [Community SQL: Query your community like it's PostgreSQL](https://developerled.substack.com/p/community-sql-query-your-community) 🧐<br>
-* [I went everywhere on PostHog's new website so you don't have to...but you should](https://developerled.substack.com/p/i-went-everywhere-on-posthogs-new) 🧐<br>
 * [Sell what you build](https://developerled.substack.com/p/sell-what-you-build) 🧐<br>
-* [Developer Led GTM](https://developerled.substack.com/p/developer-led-gtm) 🧐<br>
-* [Developer Marketing Engineer](https://developerled.substack.com/p/developer-marketing-engineer) 🧐<br>
-* [The Growthification of DevRel](https://developerled.substack.com/p/the-growthification-of-devrel) 🧐<br>
+* [You can't buy a crowd](https://developerled.substack.com/p/you-cant-buy-a-crowd) 🧐<br>
+* [Reverse-engineering the outbound model with content](https://developerled.substack.com/p/how-i-reverse-engineered-the-outbound) 🧐<br>
+* [Start Making Content Machines](https://developerled.substack.com/p/start-making-content-machines) 🧐<br>
 * [How to build your customers](https://developerled.substack.com/p/how-to-build-your-customers) 🧐<br>
 * [Product Launches Should Be Dead Boring](https://developerled.substack.com/p/product-launches-should-be-dead-boring) 🧐<br>
-* [You Don't Need to Implement That. Autofix will](https://www.coderabbit.ai/blog/you-don-t-need-to-implement-that-autofix-will) 👨‍💼<br>
-* [Now the agent moves first](https://web.archive.org/web/20260609052556/https://www.coderabbit.ai/blog/now-the-agent-moves-first) 👨‍💼<br>
-* [Be honest about that "I'll clean it up later" comment](https://www.coderabbit.ai/blog/introducing-simplify-code) 👨‍💼<br>
-* [What's new in CodeRabbit Review: Code Peek, Chat Agent and more](https://www.coderabbit.ai/blog/code-search-peek-in-coderabbit-review) 👨‍💼<br>
+* [The Growthification of DevRel](https://developerled.substack.com/p/the-growthification-of-devrel) 🧐<br>
+* [Developer Marketing Engineer](https://developerled.substack.com/p/developer-marketing-engineer) 🧐<br>
+* [Developer Led GTM](https://developerled.substack.com/p/developer-led-gtm) 🧐<br>
+* [I went everywhere on PostHog's new website so you don't have to...but you should](https://developerled.substack.com/p/i-went-everywhere-on-posthogs-new) 🧐<br>
+* [Developer Community SDK: How we built and scaled Auth0 developer ecosystem](https://developerled.substack.com/p/community-sdk-how-auth0-build-and) 🧐<br>
+* [Community SQL: Query your community like it's PostgreSQL](https://developerled.substack.com/p/community-sql-query-your-community) 🧐<br>
+* [CodeRabbit Agent is now in Discord](https://www.coderabbit.ai/blog/coderabbit-agent-in-discord) 👨‍💼<br>
+* [How Developers Actually Review Code in 2026](https://www.coderabbit.ai/blog/we-watched-developers-approve-bugs-in-30-seconds) 👨‍💼<br>
 * [The diff says 1,400 lines. The change is six](https://www.coderabbit.ai/blog/introducing-semantic-diff) 👨‍💼<br>
+* [What's new in CodeRabbit Review: Code Peek, Chat Agent and more](https://www.coderabbit.ai/blog/code-search-peek-in-coderabbit-review) 👨‍💼<br>
+* [The Best Slack Agent Is the One You Never @Mention](https://www.coderabbit.ai/blog/the-best-agent-in-your-slack-is-the-one-nobody-mentioned) 👨‍💼<br>
+* [Explainable PRs and smarter reviewer routing in CodeRabbit](https://www.coderabbit.ai/blog/explainable-prs-and-smarter-reviewer-routing) 👨‍💼<br>
+* [Be honest about that "I'll clean it up later" comment](https://www.coderabbit.ai/blog/introducing-simplify-code) 👨‍💼<br>
+* [Now the agent moves first](https://web.archive.org/web/20260609052556/https://www.coderabbit.ai/blog/now-the-agent-moves-first) 👨‍💼<br>
+* [Resolve Merge Conflicts with CodeRabbit](https://www.coderabbit.ai/blog/introducing-resolve-merge-conflicts) 👨‍💼<br>
+* [Global Overrides for Organization-Wide Review Rules](https://www.coderabbit.ai/blog/introducing-global-overrides) 👨‍💼<br>
+* [You Don't Need to Implement That. Autofix will](https://www.coderabbit.ai/blog/you-don-t-need-to-implement-that-autofix-will) 👨‍💼<br>
+* [Pre-Merge Checks: Built-in & custom PR rules enforced](https://www.coderabbit.ai/blog/pre-merge-checks-built-in-and-custom-pr-enforced) 👨‍💼<br>
+* [The most requested CodeRabbit feature: Multi-Repo Analysis](https://www.coderabbit.ai/blog/Coderabbit-multi-repo-analysis) 👨‍💼<br>
+* [Fix code issues with AI agents](https://www.coderabbit.ai/blog/fix-all-issues-with-ai-agents-a-quality-of-life-improvement) 👨‍💼<br>
 
 # Videos 📹
 
