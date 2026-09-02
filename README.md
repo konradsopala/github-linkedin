@@ -18,7 +18,7 @@ Yo! I'm Konrad and I'm a developer marketer.
 
 * [CodeRabbit: Principal Developer Marketer](https://www.coderabbit.ai/) (February 2026 - now) <br>
 * [Oxla: Developer Marketing Lead](https://www.redpanda.com/) (May 2024 - September 2025) <br>
-* [Auth0: Developer Marketer](https://auth0.com/) (October 2018 - March 2024) <br>
+* [Auth0: Developer Community Marketer](https://auth0.com/) (October 2018 - March 2024) <br>
 * [GitHub: Campus Expert](https://githubcampus.expert/) (June 2018 - June 2019) <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
