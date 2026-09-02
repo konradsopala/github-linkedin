@@ -132,6 +132,12 @@ Here are some videos I did:
 * [CodeRabbit Pre-Merge Checks](https://x.com/coderabbitai/status/2032121519888089231)
 * [Coderabbit Prompts for AI Agents](https://x.com/coderabbitai/status/2023800433089933516)
 
+# Animations 🎞️
+
+* [CodeRabbit Pre-Merge Checks Explanation](https://x.com/yoimkonrad/status/2093353050996109341)
+* [CodeRabbit Code Guidelines](https://x.com/coderabbitai/status/2094813813061427681)
+* [CodeRabbit System Architecture](https://x.com/yoimkonrad/status/2094384496875393426)
+
 # Talks 🎤
 
 Here you can check out all the talks I've given:
